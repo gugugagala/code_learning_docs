@@ -1,0 +1,14 @@
+# C / Rust 编译产物
+*.o
+*.a
+*.so
+*.exe
+*.out
+main
+target/
+
+# 编辑器和系统临时文件
+*.swp
+*.swo
+*~
+.DS_Store
